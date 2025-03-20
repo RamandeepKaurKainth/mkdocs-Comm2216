@@ -1,9 +1,9 @@
 ## Introduction
 
 Welcome! :hand:
-This documentation will guide you through using **Figma**, a cloud based design tool, to create user interfaces and interactive prototypes for small to medium scale projects. The aim is to provide a clear, step-by-step structure that breaks down Figma's features into manageable tasks, emphasizing best practices for designing collaboratively or solo. Whether you are mocking up a website or prototyping an app, this guide has you covered.
+This documentation will guide you through using [**Figma**](https://www.figma.com/), a cloud based design tool, to create user interfaces and interactive prototypes for small to medium scale projects. The aim is to provide a clear, step-by-step structure that breaks down Figma's features into manageable tasks, emphasizing best practices for designing collaboratively or solo. Whether you are mocking up a website or prototyping an app, this guide has you covered.
 
-**Figma** is browser-based design and prototyping platform that allows real-time collabration, making it perfect for creating wireframes, UI designs, and interactive mockups. It runs entirely in the cloud, so your work is accessible anywhere.
+[**Figma**](https://www.figma.com/) is browser-based design and prototyping platform that allows real-time collabration, making it perfect for creating wireframes, UI designs, and interactive mockups. It runs entirely in the cloud, so your work is accessible anywhere.
 
 **Why use Figma?** It streamlines the design process with intuitive tools and team-friendly features, ideal for personal projects or group workflows.
 
@@ -23,19 +23,19 @@ The documentation assumes the following:
 
 * **Ability to use a browser**- you're comforatbale navigating websites and using basic shortcuts(e.g., Ctrl + C to copy).
 
-* **Figma basics**- you've signed up for a Free Figma account and can log in (don't worry if you haven't, we'll cover the setup!).
+* **Figma basics**- you've signed up for a Free [Figma account](https://www.figma.com/pricing/) and can log in (don't worry if you haven't, we'll cover the setup!).
 
 ## Software Requirements
 
 Before starting, ensure you have:
 
-* **A modern web browser** () (e.g., [Chrome](https://www.google.com/intl/en_ca/chrome/), [Firefox] (https://www.mozilla.org/en-CA/firefox/new/), [Edge] (https://www.microsoft.com/en-us/edge/download?form=MA13FJ) ) with an internet connection.
+* **A modern web browser** () (e.g., [Chrome](https://www.google.com/intl/en_ca/chrome/), [Firefox](https://www.mozilla.org/en-CA/firefox/new/), [Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ) ) with an internet connection.
 
-* [**Figma account**] (https://www.figma.com/signup) (free tier is fine -- sign up at [figma.com](https://www.figma.com)).
+* [**Figma account**](https://www.figma.com/signup) (free tier is fine -- sign up at [figma.com](https://www.figma.com)).
 
-* [**Optional: Figma desktop app**] (https://www.figma.com/downloads/) (available for Mac/Windows, but browser works too).
+* [**Optional: Figma desktop app**](https://www.figma.com/downloads/) (available for Mac/Windows, but browser works too).
 
-* [**Visual Studio Code**] (https://code.visualstudio.com/download) (for managing this guide's Markdown files, through any text editor works).
+* [**Visual Studio Code**](https://code.visualstudio.com/download) (for managing this guide's Markdown files, through any text editor works).
 
 Note: Screenshots will be from Figma's browser version, but instructions appply to the deskyop app too. Alternatives like Adobe XD or Sketch won't work here - this is Figms-specific!
 
