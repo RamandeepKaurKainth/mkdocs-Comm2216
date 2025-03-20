@@ -6,8 +6,8 @@ theme:
   font : 
     text: Merriweather Sans
     code: Red Hat Display
-  logo: assets/133760376053233338.jpg
-  favicon: assets/hulgjayakfo.jpg
+  logo: assets/62c6bc3deee9410fe137d920.png
+  favicon: assets/85f69649-5387-44c2-ba45-81ae13812e36-cover.png
   features: 
     - navigation.footer
   palette:

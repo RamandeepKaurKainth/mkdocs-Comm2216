@@ -1,11 +1,11 @@
 ## Introduction
 
 Welcome! :hand:
-This documentation will guide you through using **Figma**, a cloud based design tool, to create user interfaces and interactive prototypes for small to medium scale projects. The aim is to provide a clear, step-by-step structure that breaks down Figma's features into manageable tasks, emphasizing best practices for designing collobaratively or solo. Whether you are mocking up a website or prototyping an app, this guide has you covered.
+This documentation will guide you through using **Figma**, a cloud based design tool, to create user interfaces and interactive prototypes for small to medium scale projects. The aim is to provide a clear, step-by-step structure that breaks down Figma's features into manageable tasks, emphasizing best practices for designing collaboratively or solo. Whether you are mocking up a website or prototyping an app, this guide has you covered.
 
 **Figma** is browser-based design and prototyping platform that allows real-time collabration, making it perfect for creating wireframes, UI designs, and interactive mockups. It runs entirely in the cloud, so your work is accessible anywhere.
 
-**Why use Figma?** It streamlines the design process with intuitve tools and team-friendly features, ideal for personal prjects or group workflows.
+**Why use Figma?** It streamlines the design process with intuitive tools and team-friendly features, ideal for personal projects or group workflows.
 
 ## Intended Users
 
@@ -19,7 +19,7 @@ This guide is targeted towards the following users:
 
 The documentation assumes the following:
 
-* **Basic design skills**- you should understand a simple layout concepts (e.g., spacing, alignment) and have some familiarity with tools like Canva or Sketch.
+* **Basic design skills**- you should understand a simple layout concepts (e.g., spacing, alignment) and have some familiarity with tools like Canva's or Sketch.
 
 * **Ability to use a browser**- you're comforatbale navigating websites and using basic shortcuts(e.g., Ctrl + C to copy).
 
