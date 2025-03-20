@@ -1,6 +1,9 @@
 site_name: Comm 2216 Documentation
 nav:
   - Home: index.md
+  - Creating a Design Layout : design-layout.md
+  - Creating and Using Components: components.md
+  - Prototyping a Button Interaction: prototyping.md
 theme:
   name: material
   font:
