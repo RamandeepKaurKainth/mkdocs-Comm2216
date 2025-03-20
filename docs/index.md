@@ -29,7 +29,7 @@ The documentation assumes the following:
 
 Before starting, ensure you have:
 
-* **A modern web browser** () (e.g., [Chrome](https://www.google.com/intl/en_ca/chrome/), [Firefox](https://www.mozilla.org/en-CA/firefox/new/), [Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ) ) with an internet connection.
+* **A modern web browser**  (e.g., [Chrome](https://www.google.com/intl/en_ca/chrome/), [Firefox](https://www.mozilla.org/en-CA/firefox/new/), [Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ) ) with an internet connection.
 
 * [**Figma account**](https://www.figma.com/signup) (free tier is fine -- sign up at [figma.com](https://www.figma.com)).
 
