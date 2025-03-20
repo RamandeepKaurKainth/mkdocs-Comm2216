@@ -2,13 +2,13 @@ site_name: Comm 2216 Documentation
 nav:
   - Home: index.md
 theme:
-  name : material
-  font : 
+  name: material
+  font:
     text: Merriweather Sans
     code: Red Hat Display
   logo: assets/62c6bc3deee9410fe137d920.png
   favicon: assets/85f69649-5387-44c2-ba45-81ae13812e36-cover.png
-  features: 
+  features:
     - navigation.footer
   palette:
     # Dark Mode
@@ -18,7 +18,6 @@ theme:
         name: Dark mode
       primary: green
       accent: deep purple
-
     # Light Mode
     - scheme: default
       toggle:
@@ -26,27 +25,23 @@ theme:
         name: Light mode
       primary: blue
       accent: deep orange
-
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-
-markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-  - admonition
-  - pymdownx.details
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details

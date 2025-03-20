@@ -29,13 +29,13 @@ The documentation assumes the following:
 
 Before starting, ensure you have:
 
-* **A modern web browser** (e.g., Chrome, Firefox, Edge) with an internet connection.
+* **A modern web browser** () (e.g., [Chrome](https://www.google.com/intl/en_ca/chrome/), [Firefox] (https://www.mozilla.org/en-CA/firefox/new/), [Edge] (https://www.microsoft.com/en-us/edge/download?form=MA13FJ) ) with an internet connection.
 
-* **Figma account** (free tier is fine -- sign up at figma.com).
+* [**Figma account**] (https://www.figma.com/signup) (free tier is fine -- sign up at [figma.com](https://www.figma.com)).
 
-* **Optional: Figma desktop app** (available for Mac/Windows, but browser works too).
+* [**Optional: Figma desktop app**] (https://www.figma.com/downloads/) (available for Mac/Windows, but browser works too).
 
-* **Visual Studio Code** (for managing this guide's Markdown files, through any text editor works).
+* [**Visual Studio Code**] (https://code.visualstudio.com/download) (for managing this guide's Markdown files, through any text editor works).
 
 Note: Screenshots will be from Figma's browser version, but instructions appply to the deskyop app too. Alternatives like Adobe XD or Sketch won't work here - this is Figms-specific!
 
@@ -77,11 +77,4 @@ Look out for these alerts:
 **Info**
 
 **Success**
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
 
