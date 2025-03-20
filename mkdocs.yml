@@ -1,4 +1,6 @@
-site_name: My Docs
+site_name: Comm 2216 Documentation
+nav:
+  - Home: index.md
 theme:
   name : material
   font : 
