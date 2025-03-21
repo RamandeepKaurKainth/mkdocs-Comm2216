@@ -26,7 +26,7 @@ jobs:
       - name: Cache dependencies
         uses: actions/cache@v4
         with:
-          key: mkdocs-material-${{ env.cache_id }}
+          key: mkdocs-material- ${{ env.cache_id }}
           path: .cache
           restore-keys: |
             mkdocs-material-
