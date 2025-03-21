@@ -14,9 +14,15 @@ __pycache__/
 dist/
 build/
 
+# MkDocs Build Output
+site/
+
 # System Files
 .DS_Store  # macOS
 Thumbs.db  # Windows
 
 # Editor Settings
 .vscode/
+
+# Keep your screenshots and docs tracked
+# (No need to ignore images/ or *.md unless they’re temporary)
