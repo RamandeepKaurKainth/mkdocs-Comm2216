@@ -1,9 +1,11 @@
 site_name: Comm 2216 Documentation
 nav:
   - Home: index.md
-  - Creating a Design Layout : design-layout.md
+  - Creating a Design Layout: design-layout.md
   - Creating and Using Components: components.md
   - Prototyping a Button Interaction: prototyping.md
+  - Glossary: glossary.md
+  - Troubleshooting Guide: troubleshooting.md
 theme:
   name: material
   font:
@@ -14,25 +16,21 @@ theme:
   features:
     - navigation.footer
   palette:
-    # Dark Mode
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Dark mode
       primary: green
       accent: deep purple
-    # Light Mode
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Light mode
       primary: blue
-      accent: deep orange
+      accent: grey
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
