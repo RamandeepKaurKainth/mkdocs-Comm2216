@@ -27,10 +27,6 @@ Components in **Figma** are reusable design elements (like buttons or icons) tha
 !!! warning "Warning"
     *Don’t edit an instance’s core structure (e.g., deleting the rectangle) unless you detach it first by right-clicking and selecting Detach Instance. This avoids breaking the link to the master component.*
 
-## Adding Graphics
-* ![New frame created for your design (highlighted in yellow).](images/screenshot1.png)
-* ![Button converted into a component (highlighted in yellow with blue outline).](images/screenshot2.png)
-* ![Master component updated to a darker blue (highlighted in yellow), with the instance matching automatically.](images/screenshot3.png)
 
 ## Conclusion
 
