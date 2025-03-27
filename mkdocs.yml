@@ -1,8 +1,9 @@
-site_name: Comm 2216 Documentation
+site_name: Figma for Beginners
+site_description: A beginner's guide to Figma
 nav:
   - Home: index.md
-  - Creating a Design Layout: design-layout.md
   - Creating and Using Components: components.md
+  - Creating a Design Layout: design-layout.md
   - Prototyping a Button Interaction: prototyping.md
   - Glossary: glossary.md
   - Troubleshooting Guide: troubleshooting.md

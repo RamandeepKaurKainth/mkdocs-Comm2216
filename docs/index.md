@@ -5,9 +5,9 @@
 Welcome! :raised_hand:  
 This documentation will guide you through using [**Figma**](https://www.figma.com/), a cloud-based design tool, to create user interfaces and interactive prototypes for small to medium scale projects. The aim is to provide a clear, step-by-step structure that breaks down Figma's features into manageable tasks, emphasizing best practices for designing collaboratively or solo. Whether you are mocking up a website or prototyping an app, this guide has you covered.
 
-    [**Figma**](https://www.figma.com/) is a browser-based design and prototyping platform that allows real-time collaboration, making it perfect for creating wireframes, UI designs, and interactive mockups. It runs entirely in the cloud, so your work is accessible anywhere.
-
-    **Why use Figma?** It streamlines the design process with intuitive tools and team-friendly features, ideal for personal projects or group workflows.
+>[**Figma**](https://www.figma.com/) is a browser-based design and prototyping platform that allows real-time collaboration, making it perfect for creating wireframes, UI designs, and interactive mockups. It runs entirely in the cloud, so your work is accessible anywhere.
+>
+>**Why use Figma?** It streamlines the design process with intuitive tools and team-friendly features, ideal for personal projects or group workflows.
 
 ## Intended Users
 
@@ -33,14 +33,14 @@ Before starting, ensure you have:
 - [**Optional: Figma desktop app**](https://www.figma.com/downloads/) (available for Mac/Windows, but the browser works too).
 - [**Visual Studio Code**](https://code.visualstudio.com/download) (for managing this guide’s Markdown files, though any text editor works).
 
-        Note: Screenshots will be from Figma’s browser version, but instructions apply to the desktop app too. Alternatives like Adobe XD or Sketch won’t work here – this is Figma-specific!
+>Note: Screenshots will be from Figma’s browser version, but instructions apply to the desktop app too. Alternatives like Adobe XD or Sketch won’t work here – this is Figma-specific!
 
 ## Procedure Overview
 
 The main sections of this guide are:
 
-- Creating a Design Layout in Figma
 - Creating and Using Components in Figma
+- Creating a Design Layout in Figma
 - Prototyping a Button Interaction in Figma
 
 Each section includes 10 steps, graphics, and tips to keep you on track.
