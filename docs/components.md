@@ -15,6 +15,7 @@ Components in **Figma** are reusable design elements (like buttons or icons) tha
 * **Convert** these elements into a component by pressing `Cmd + Alt + K` (Mac) or `Ctrl + Alt + K` (Windows), or clicking **Create Component** in the top bar. The selection will turn blue, indicating it’s now a component.
 * **Name** your component in the Layers panel (on the left). Right-click the component (labeled something like Component_1), select Rename, and type “Primary Button.”
 * **Edit** the master component to refine it. Double-click the component, then adjust the corner radius to 8px (in the properties panel) or change the text to “Submit.” These changes will apply everywhere the component is used.
+![image](assets/radius.png "Set radius")
 * **Use** an instance of the component by dragging it from the Assets panel (left sidebar) onto your canvas. Place it below the original to test it out.
 * **Update** the master component again—select it, change the Fill color to `#0056B3` (a darker blue), and watch the instance update automatically.
 
