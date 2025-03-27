@@ -2,11 +2,6 @@
 ## Overview
 In **Figma**, prototyping allows you to create interactive, clickable versions of your designs. This helps you visualize and test how users will navigate through your app, website, or other digital products. By linking frames, adding interactions, and incorporating animations, you can simulate real-world usage and gather valuable feedback before development. In this guide, you’ll learn how to create a prototype, set interactions, and preview your designs in action. By the end, you'll have a fully interactive prototype that you can share and test with others, bringing your designs to life!
 
-## What You'll Need
-
-* A **Figma** file open (from the previous section or a new one).
-* Basic familiarity with **Rectangle Tool (R)** and **Text Tool (T)**
-
 ## Steps to Create and Use Components
 
 1. **Open** Figma in your browser or desktop app and log into your account.

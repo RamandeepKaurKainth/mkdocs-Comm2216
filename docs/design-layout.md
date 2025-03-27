@@ -2,11 +2,6 @@
 ## Overview
 Components in **Figma** are reusable design elements (like buttons or icons) that help save time and ensure consistency across your project. In this guide, you’ll learn how to create, edit, and use components effectively. By the end, you’ll have a reusable Primary Button component that enhances your workflow.
 
-## What You'll Need
-
-* A **Figma** file open (from the previous section or a new one).
-* Basic familiarity with **Rectangle Tool (R)** and **Text Tool (T)**
-
 ## Steps to Create and Use Components
 
 1. **Open** Figma in your browser or desktop app and log into your account.
