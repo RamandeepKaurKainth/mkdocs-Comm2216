@@ -9,7 +9,7 @@ Components in **Figma** are reusable design elements (like buttons or icons) tha
 
 ## Steps to Create and Use Components
 
-* **Open** Figma in your browser or desktop app and log into your account.
+1. **Open** Figma in your browser or desktop app and log into your account.
 * **Create** a new file by click on **New File (F)** from the Figma dashboard to create a new design project, or open an existing file if you already have one.
 * **Set Up** the canvas, on the new file, set up your canvas by adjusting the dimensions. You can do this by selecting the **Frame Tool (F)** and clicking and dragging to create a frame or artboard.
 * **Choose** a present layout. Figma provides device-specific artboard presets. Click on the **Frame Tool (T)**and select a device like **iPhone 13** from the preset options, or set custom dimensions in the properties panel.
@@ -22,17 +22,11 @@ Components in **Figma** are reusable design elements (like buttons or icons) tha
 * **Preview** your layout. elements. To preview the design, press **Present** in the top-right corner. This allows you to view the design in presentation mode and check how the elements look in the frame.
 * **Save and share** Once satisfied with your layout, save the file, and share it by clicking the **Share** button in the top-right corner to generate a shareable link.
 
-
-<!-- !!! info "Info"
+!!! info "Info"
     *Shortcut Tip: Press `Alt` (Windows) or `Option` (Mac) while dragging an instance to duplicate it quickly.*
 
 !!! warning "Warning"
-    *Don’t edit an instance’s core structure (e.g., deleting the rectangle) unless you detach it first by right-clicking and selecting Detach Instance. This avoids breaking the link to the master component.* -->
-
-## Adding Graphics
-* ![New frame created for your design (highlighted in yellow).](images/screenshot1.png)
-* ![Button converted into a component (highlighted in yellow with blue outline).](images/screenshot2.png)
-* ![Master component updated to a darker blue (highlighted in yellow), with the instance matching automatically.](images/screenshot3.png)
+    *Don’t edit an instance’s core structure (e.g., deleting the rectangle) unless you detach it first by right-clicking and selecting Detach Instance. This avoids breaking the link to the master component.* 
 
 ## Conclusion
 
