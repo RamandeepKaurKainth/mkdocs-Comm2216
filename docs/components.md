@@ -15,6 +15,7 @@ Components in **Figma** are reusable design elements (like buttons or icons) tha
 * **Draw** a button shape using the **Rectangle Tool (R)**. Click on the canvas and drag to create a rectangle (e.g., 200x50px). In the properties panel, set the Fill color to a hex value like `#007BFF` (a nice blue).
 ![image](assets/rectangleTool.png "Rectangle Toolbar")
 * **Add** text to your button with the **Text Tool (T)**. Click inside the rectangle, type “Click Me,” and adjust the font size to 16px and weight to bold in the properties panel.
+![image](assets/font.png "Set Font")
 * **Select** both the rectangle and text by holding `Shift` and clicking each element, or dragging a selection box around them.
 * **Convert** these elements into a component by pressing `Cmd + Alt + K` (Mac) or `Ctrl + Alt + K` (Windows), or clicking **Create Component** in the top bar. The selection will turn blue, indicating it’s now a component.
 * **Name** your component in the Layers panel (on the left). Right-click the component (labeled something like Component_1), select Rename, and type “Primary Button.”
