@@ -9,7 +9,7 @@ Components in **Figma** are reusable design elements (like buttons or icons) tha
 
 ## Steps to Create and Use Components
 
-* **Open** Figma in your browser or desktop app and log into your account.
+1. **Open** Figma in your browser or desktop app and log into your account.
 * **Create** a new frame by selecting the **Frame Tool (F)** from the toolbar, then clicking and dragging on the canvas. Set the size to a preset like *iPhone 13* (in the right-hand properties panel) or use custom dimensions (e.g., 375x812px).
 ![image](assets/FrameToolbar.png "Frame Toolbar")
 * **Draw** a button shape using the **Rectangle Tool (R)**. Click on the canvas and drag to create a rectangle (e.g., 200x50px). In the properties panel, set the Fill color to a hex value like `#007BFF` (a nice blue).
