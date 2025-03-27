@@ -73,4 +73,3 @@ Look out for these alerts:
 
 !!! success "Success"
     *What a completed task looks like -- celebrate your progress!*
-

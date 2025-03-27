@@ -22,13 +22,11 @@ Components in **Figma** are reusable design elements (like buttons or icons) tha
 * **Preview** your layout. elements. To preview the design, press **Present** in the top-right corner. This allows you to view the design in presentation mode and check how the elements look in the frame.
 * **Save and share** Once satisfied with your layout, save the file, and share it by clicking the **Share** button in the top-right corner to generate a shareable link.
 
-
 !!! info "Info"
     *Shortcut Tip: Press `Alt` (Windows) or `Option` (Mac) while dragging an instance to duplicate it quickly.*
 
 !!! warning "Warning"
     *Don’t edit an instance’s core structure (e.g., deleting the rectangle) unless you detach it first by right-clicking and selecting Detach Instance. This avoids breaking the link to the master component.* 
-
 
 ## Conclusion
 

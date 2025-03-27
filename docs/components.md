@@ -29,7 +29,6 @@ Components in **Figma** are reusable design elements (like buttons or icons) tha
 !!! warning "Warning"
     *Don’t edit an instance’s core structure (e.g., deleting the rectangle) unless you detach it first by right-clicking and selecting Detach Instance. This avoids breaking the link to the master component.*
 
-
 ## Conclusion
 
 Success! You’ve created a reusable **Primary Button** component and learned how to update it across your design. Components are powerful for keeping your project consistent—think of them as your design’s building blocks. Next, try creating variants (e.g., hover or disabled states) or move to the prototyping section!

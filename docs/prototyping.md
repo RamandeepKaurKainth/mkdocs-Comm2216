@@ -9,7 +9,7 @@ In **Figma**, prototyping allows you to create interactive, clickable versions o
 
 ## Steps to Create and Use Components
 
-* **Open** Figma in your browser or desktop app and log into your account.
+1. **Open** Figma in your browser or desktop app and log into your account.
 * **Select** the prototype tab. In the top-right corner, switch from **Design** to **Prototype** to start linking frames and creating interactions.
 * **Link** two frames. Select a UI element (like a button), then click the **Prototype Node** (the small circular dot) that appears on the right side of the element. Drag it to the destination frame or screen.
 * **Set** interaction type. In the properties panel on the right, choose the interaction type (e.g., **On Click**, **On Hover**, **After Delay**).
@@ -22,23 +22,15 @@ In **Figma**, prototyping allows you to create interactive, clickable versions o
 * **Create** interactive components. If you need interactive elements like dropdowns, toggle switches, or checkboxes, you can create interactive components by combining frames with interactions.
 * **Share** Once you’re satisfied, share your prototype by clicking on the **Share** button in the top-right corner and copying the link or generating a QR code for mobile testing.
 
-
-<!-- !!! info "Info"
+!!! info "Info"
     *Shortcut Tip: Press `Alt` (Windows) or `Option` (Mac) while dragging an instance to duplicate it quickly.*
 
 !!! warning "Warning"
-    *Don’t edit an instance’s core structure (e.g., deleting the rectangle) unless you detach it first by right-clicking and selecting Detach Instance. This avoids breaking the link to the master component.* -->
-
-## Adding Graphics
-* ![New frame created for your design (highlighted in yellow).](images/screenshot1.png)
-* ![Button converted into a component (highlighted in yellow with blue outline).](images/screenshot2.png)
-* ![Master component updated to a darker blue (highlighted in yellow), with the instance matching automatically.](images/screenshot3.png)
+    *Don’t edit an instance’s core structure (e.g., deleting the rectangle) unless you detach it first by right-clicking and selecting Detach Instance. This avoids breaking the link to the master component.*
 
 ## Conclusion
 
 Success! You've successfully created an **interactive prototype** in Figma, linking your frames and adding animations and interactions. This will help bring your designs to life and allow you to communicate user flows, transitions, and interactions with others. By following these steps, you’ve gained the ability to prototype complex user interfaces, test interactions, and fine-tune your design. Prototyping in Figma is an essential step in creating interactive, dynamic experiences—whether for apps, websites, or other digital products.
-
-
 
 !!! success "Success"
     Your prototype is now ready! With interactions, animations, and transitions in place, you can easily test and iterate on your design. Celebrate by sharing your prototype with stakeholders or testing it on a device. Keep refining and enhancing your prototype by adding new elements, adjusting flows, or experimenting with more advanced interactions. Continue building and perfecting your design to create a polished, interactive experience!
