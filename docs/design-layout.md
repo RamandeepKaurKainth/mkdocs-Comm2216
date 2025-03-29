@@ -11,10 +11,11 @@ Components in **Figma** are reusable design elements (like buttons or icons) tha
 * **Draw** basic shapes Use basic shapes like **Rectangles (R)**, **Circles (O)**, and **Lines (L)** to lay out components such as buttons, icons, and text boxes on your canvas.
 * **Add** text. Select the **Text Tool (T)**, click on the canvas, and type text. Adjust font size, weight, and style from the properties panel on the right.
 * **Align** elements. Select multiple elements and use the **Align Tools** in the top bar to align them vertically or horizontally, or use the smart guides that appear when moving elements.
+![image](assets/Align.png "Set radius")
 * **Apply** colors. Select a shape or text, then in the right-hand panel, click on the **Fill** color option and pick a color from the color picker or input a specific hex value.
 * **Use** auto layout. Select a frame, and then click **Shift + A** to apply **Auto Layout**. This helps to automatically adjust and position elements within a frame (e.g., buttons and text will auto-adjust as their size changes).
 * **Group** elements. Select multiple elements and press **Ctrl + G** (or **Cmd + G** on macOS) to group them. This helps in organizing your design and allows you to move related elements as one unit.
-* **Preview** your layout. elements. To preview the design, press **Present** in the top-right corner. This allows you to view the design in presentation mode and check how the elements look in the frame.
+* **Preview** your layout. To preview the design, press **Present** in the top-right corner. This allows you to view the design in presentation mode and check how the elements look in the frame.
 * **Save and share** Once satisfied with your layout, save the file, and share it by clicking the **Share** button in the top-right corner to generate a shareable link.
 
 !!! info "Info"
