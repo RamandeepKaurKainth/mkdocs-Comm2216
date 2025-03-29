@@ -22,7 +22,10 @@ Components in **Figma** are reusable design elements (like buttons or icons) tha
     *Shortcut Tip: Press `Alt` (Windows) or `Option` (Mac) while dragging an instance to duplicate it quickly.*
 
 !!! warning "Warning"
-    *Don’t edit an instance’s core structure (e.g., deleting the rectangle) unless you detach it first by right-clicking and selecting Detach Instance. This avoids breaking the link to the master component.* 
+    *Be cautious when modifying component instances. Editing an instance’s core structure (e.g., deleting a rectangle) without detaching it first can break the link to the master component. To avoid issues, right-click and select Detach Instance before making significant changes.* 
+
+!!! warning "Component Overuse Warning"
+    *sing too many components without proper organization can clutter your project. Keep components structured in a design system to maintain consistency and efficiency.* 
 
 ## Conclusion
 
