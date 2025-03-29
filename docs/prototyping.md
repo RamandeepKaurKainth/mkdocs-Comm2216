@@ -14,15 +14,21 @@ In **Figma**, prototyping allows you to create interactive, clickable versions o
 * **Test** on device. Share your prototype link with someone or view it on a mobile device by scanning the **QR Code** that appears in the prototype preview mode.
 * **Adjust** prototyping flow. If needed, go back to the prototype tab and refine the interactions. You can adjust the links, animations, or add delays between interactions.
 * **Add** overlays. For modals or pop-up screens, use **Overlays**. In the properties panel, select **Overlay** instead of a regular transition. You can also choose to center the overlay or adjust its position relative to the screen.
-![image](assets/overlays2.png "Set radius")
+![image](assets/overlays2.png "Add overlays")
 * **Create** interactive components. If you need interactive elements like dropdowns, toggle switches, or checkboxes, you can create interactive components by combining frames with interactions.
 * **Share** Once you’re satisfied, share your prototype by clicking on the **Share** button in the top-right corner and copying the link or generating a QR code for mobile testing.
 
 !!! info "Info"
     *Shortcut Tip: Press `Alt` (Windows) or `Option` (Mac) while dragging an instance to duplicate it quickly.*
 
+!!! info "Info"
+    *Collaboration Tip: If working in a team, ensure proper naming conventions for frames and components to keep your prototype organized and easy to navigate.*
+
 !!! warning "Warning"
-    *Don’t edit an instance’s core structure (e.g., deleting the rectangle) unless you detach it first by right-clicking and selecting Detach Instance. This avoids breaking the link to the master component.*
+    *Be cautious when modifying component instances. Editing an instance’s core structure (e.g., deleting a rectangle) without detaching it first can break the link to the master component. To avoid issues, right-click and select Detach Instance before making significant changes*
+
+!!! warning "Animation Performance Warning"
+    *Excessive animations, especially heavy Smart Animates, can cause lag in larger prototypes. Keep animations minimal and test performance on multiple devices.*
 
 ## Conclusion
 
