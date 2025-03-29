@@ -12,8 +12,9 @@ In **Figma**, prototyping allows you to create interactive, clickable versions o
 * **Add** more interacts. Link other elements, such as buttons or images, to other frames, creating a flow between your screens. Repeat the process for all interactive elements in your design.
 * **Preview** the prototype. Press the **Present** button in the top-right corner to see your interactive prototype. Click on elements to test the interactions and transitions.
 * **Test** on device. Share your prototype link with someone or view it on a mobile device by scanning the **QR Code** that appears in the prototype preview mode.
-* **Adjust** prototyping flow.  If needed, go back to the prototype tab and refine the interactions. You can adjust the links, animations, or add delays between interactions.
+* **Adjust** prototyping flow. If needed, go back to the prototype tab and refine the interactions. You can adjust the links, animations, or add delays between interactions.
 * **Add** overlays. For modals or pop-up screens, use **Overlays**. In the properties panel, select **Overlay** instead of a regular transition. You can also choose to center the overlay or adjust its position relative to the screen.
+![image](assets/overlays2.png "Set radius")
 * **Create** interactive components. If you need interactive elements like dropdowns, toggle switches, or checkboxes, you can create interactive components by combining frames with interactions.
 * **Share** Once you’re satisfied, share your prototype by clicking on the **Share** button in the top-right corner and copying the link or generating a QR code for mobile testing.
 
