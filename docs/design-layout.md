@@ -1,35 +1,28 @@
-
 ## Overview
-Components in **Figma** are reusable design elements (like buttons or icons) that help save time and ensure consistency across your project. In this guide, you’ll learn how to create, edit, and use components effectively. By the end, you’ll have a reusable Primary Button component that enhances your workflow.
+Design layouts in **Figma** use components, shapes, and text to create organized, reusable interfaces. This guide walks you through building a layout step-by-step, leveraging tools like Auto Layout for flexibility and consistency.
 
-## Steps to Create and Use Components
+## Steps to Create a Design Layout
 
 1. **Open** Figma in your browser or desktop app and log into your account.
-* **Create** a new file by click on **New File (F)** from the Figma dashboard to create a new design project, or open an existing file if you already have one.
-* **Set Up** the canvas, on the new file, set up your canvas by adjusting the dimensions. You can do this by selecting the **Frame Tool (F)** and clicking and dragging to create a frame or artboard.
-* **Choose** a present layout. Figma provides device-specific artboard presets. Click on the **Frame Tool (T)**and select a device like **iPhone 13** from the preset options, or set custom dimensions in the properties panel.
-* **Draw** basic shapes Use basic shapes like **Rectangles (R)**, **Circles (O)**, and **Lines (L)** to lay out components such as buttons, icons, and text boxes on your canvas.
-* **Add** text. Select the **Text Tool (T)**, click on the canvas, and type text. Adjust font size, weight, and style from the properties panel on the right.
-* **Align** elements. Select multiple elements and use the **Align Tools** in the top bar to align them vertically or horizontally, or use the smart guides that appear when moving elements.
-![image](assets/Align.png "Set align")
-* **Apply** colors. Select a shape or text, then in the right-hand panel, click on the **Fill** color option and pick a color from the color picker or input a specific hex value.
-* **Use** auto layout. Select a frame, and then click **Shift + A** to apply **Auto Layout**. This helps to automatically adjust and position elements within a frame (e.g., buttons and text will auto-adjust as their size changes).
-* **Group** elements. Select multiple elements and press **Ctrl + G** (or **Cmd + G** on macOS) to group them. This helps in organizing your design and allows you to move related elements as one unit.
-* **Preview** your layout. To preview the design, press **Present** in the top-right corner. This allows you to view the design in presentation mode and check how the elements look in the frame.
-* **Save and share** Once satisfied with your layout, save the file, and share it by clicking the **Share** button in the top-right corner to generate a shareable link.
-
-!!! info "Info"
-    *Shortcut Tip: Press `Alt` (Windows) or `Option` (Mac) while dragging an instance to duplicate it quickly.*
-
-!!! warning "Warning"
-    *Be cautious when modifying component instances. Editing an instance’s core structure (e.g., deleting a rectangle) without detaching it first can break the link to the master component. To avoid issues, right-click and select Detach Instance before making significant changes.* 
-
-!!! warning "Component Overuse Warning"
-    *sing too many components without proper organization can clutter your project. Keep components structured in a design system to maintain consistency and efficiency.* 
+2. **Start** a new file by clicking **New File** on the Figma dashboard, or open an existing one.
+3. **Set Up** your canvas with the **Frame Tool (F)**. Click and drag to create a frame, then pick a preset like **iPhone 13** (375x812px) from the properties panel on the right, or set custom dimensions.
+4. **Draw** shapes for your layout (e.g., a button) using the **Rectangle Tool (R)**, **Ellipse Tool (O)**, or **Line Tool (L)**. Try a 200x50px rectangle for a button.
+5. **Add** text with the **Text Tool (T)**. Click inside your shape, type “Click Me,” and set the font to 16px bold in the properties panel.
+6. **Align** elements by selecting them (hold `Shift`) and using the **Align Tools** in the toolbar (top) to center them. Smart guides will assist as you drag.  
+   ![image](assets/Align.png "Align elements")
+7. **Color** your shapes or text. Select an element, click **Fill** in the properties panel, and choose a color (e.g., `#007BFF` for blue) via the picker or hex code.  
+>!!! success "Success"  
+    Your layout’s foundation is set! Shapes, text, and colors are now in place.
+8. **Apply** Auto Layout for flexibility. Select a frame or group (e.g., your button and text), press **Shift + A**, and adjust padding (e.g., 10px) and spacing in the properties panel. Auto Layout makes elements resize automatically with content changes—like a button stretching for longer text.  
+>!!! info "Info"  
+    *Duplicate quickly: Hold `Alt` (Windows) or `Option` (Mac) while dragging.*
+9. **Group** related elements by selecting them and pressing **Ctrl + G** (Windows) or **Cmd + G** (Mac) to keep your design tidy.  
+>!!! warning "Warning"  
+    *Avoid editing a component instance’s core structure (e.g., deleting a shape) without detaching it first. Right-click and select Detach Instance to prevent breaking the master component.*
+10. **Preview** your layout by clicking the play button (▶) labeled **Present** in the top-right corner to view it in presentation mode.
+11. **Save and Share** your file. Save your work, then click **Share** (top-right) for a link.  
+>!!! warning "Component Overuse Warning"  
+    *Too many unorganized components can clutter your project. Use a design system to stay efficient.*
 
 ## Conclusion
-
-Success! You've successfully **design a layout** in Figma using components and design elements. By following these steps, you've laid the foundation for building a consistent and organized design. Whether you're designing an app, a website, or any other interface, understanding how to create and structure layouts efficiently will speed up your workflow and ensure your designs are both functional and visually appealing.
-
-!!! success "Success"
-    Your layout is now ready! With your components, text, and alignment in place, you can easily reuse these elements across your design. Celebrate by exploring new design possibilities, experimenting with different variations, or adding more complex interactions and elements. Keep building and refining to perfect your design!
+You’ve crafted a sleek design layout in Figma! With shapes, text, and Auto Layout, your design is both functional and adaptable. Next, add interactivity by exploring the prototyping section!
