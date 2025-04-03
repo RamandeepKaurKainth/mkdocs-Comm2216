@@ -31,7 +31,6 @@ Before starting, ensure you have:
 - **A modern web browser** (e.g., [Chrome](https://www.google.com/intl/en_ca/chrome/), [Firefox](https://www.mozilla.org/en-CA/firefox/new/), [Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ)) with an internet connection.
 - [**Figma account**](https://www.figma.com/signup) (free tier is fine – sign up at [figma.com](https://www.figma.com)).
 - [**Optional: Figma desktop app**](https://www.figma.com/downloads/) (available for Mac/Windows, but the browser works too).
-- [**Visual Studio Code**](https://code.visualstudio.com/download) (for managing this guide’s Markdown files, though any text editor works).
 
 >Note: Screenshots will be from Figma’s browser version, but instructions apply to the desktop app too. Alternatives like Adobe XD or Sketch won’t work here – this is Figma-specific!
 
@@ -49,14 +48,13 @@ Each section includes 10 steps, graphics, and tips to keep you on track.
 
 Here’s how we’ll format things:
 
-- **Code-like terms** (e.g., Rectangle Tool) indicate Figma tools or options.
-- **File names** (e.g., MyFirstProject.fig) will look like this.
-- **Browser Commands** will be styled like: `Ctrl + S` to save.
-- **Numbered steps** use bolded **verbs** (e.g., **Click**, **Drag**) for clarity.
-- Changes to designs will be **highlighted** in yellow in graphics or text, like:
-
-- Original: A blue button (#007BFF).
-- Updated: A darker blue button (#0056B3).
+| Convention                          | Meaning/Example                                                                 |
+|-------------------------------------|---------------------------------------------------------------------------------|
+| **Code-like terms**                 | Indicate Figma tools or options (e.g., **Rectangle Tool**)                      |
+| **File names**                      | Styled like this (e.g., **MyFirstProject.fig**)                                 |
+| **Browser Commands**                | Styled as code blocks (e.g., `Ctrl + S` to save)                                |
+| **Numbered steps**                  | Use bolded **verbs** for clarity (e.g., **Click**, **Drag**)                    |
+| Changes to designs                  | **Highlighted** in yellow in graphics or text (e.g., Original: A blue button (#007BFF), Updated: A darker blue button (#0056B3)) |
 
 ## Notes and Warning Messages
 
