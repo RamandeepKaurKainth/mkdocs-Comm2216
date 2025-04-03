@@ -10,7 +10,7 @@ Design layouts in **Figma** use components, shapes, and text to create organized
 4. **Draw** shapes for your layout (e.g., a button) using the **Rectangle Tool (R)**, **Ellipse Tool (O)**, or **Line Tool (L)**. Try a 200x50px rectangle for a button.
 5. **Add** text with the **Text Tool (T)**. Click inside your shape, type “Click Me,” and set the font to 16px bold in the properties panel.
 6. **Align** elements by selecting them (hold `Shift`) and using the **Align Tools** in the toolbar (top) to center them. Smart guides will assist as you drag.  
-   ![image](assets/Align.png "Align elements")
+   ![image](assets/Alignment.png "Align elements")
 7. **Color** your shapes or text. Select an element, click **Fill** in the properties panel, and choose a color (e.g., `#007BFF` for blue) via the picker or hex code.  
 >!!! success "Success"  
     Your layout’s foundation is set! Shapes, text, and colors are now in place.
