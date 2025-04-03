@@ -11,7 +11,8 @@ Components in **Figma** are reusable design elements (like buttons or icons) tha
 4. **Add** text to your button with the **Text Tool (T)**. Click inside the rectangle, type “Click Me,” and adjust the font size to 16px and weight to bold in the properties panel.  
    ![image](assets/font.png "Set Font")
 5. **Select** both the rectangle and text by holding `Shift` and clicking each element, or dragging a selection box around them.
-6. **Convert** these elements into a component by right-clicking the selection and choosing **Create Component**, or pressing `Cmd + Alt + K` (Mac) or `Ctrl + Alt + K` (Windows). The selection will turn blue, indicating it’s now a component.  
+6. **Convert** these elements into a component by right-clicking the selection and choosing **Create Component**, or pressing `Cmd + Alt + K` (Mac) or `Ctrl + Alt + K` (Windows). The selection will turn blue, indicating it’s now a component.
+    ![image](assets/componentcreated.png "Create Component")
 >!!! success "Success"  
        Your button component is ready! It’s now reusable across your project.
 
@@ -22,6 +23,7 @@ Components in **Figma** are reusable design elements (like buttons or icons) tha
        *Don’t edit an instance’s core structure (e.g., deleting the rectangle) unless you detach it first by right-clicking and selecting Detach Instance. This avoids breaking the link to the master component.*
 
 9. **Use** an instance of the component by dragging it from the Assets panel (left sidebar) onto your canvas. Place it below the original to test it out.
+    ![image](assets/mastercomponentcreated.png "Drag Instance from Assets")
 10. **Update** the master component again—select it, change the Fill color to `#0056B3` (a darker blue), and watch the instance update automatically.  
 >!!! info "Info"  
     *Shortcut Tip: Press `Alt` (Windows) or `Option` (Mac) while dragging an instance to duplicate it quickly.*
