@@ -10,7 +10,8 @@ Prototyping in **Figma** turns your static designs into interactive experiences.
    ![image](assets/PrototypeNode.png "Prototype Node") <!-- Placeholder; add actual image -->
 5. **Set** the trigger in the properties panel (right side). Choose **On Click** from the dropdown to make the button clickable.
 6. **Choose** an action in the properties panel. Select **Navigate To** and ensure the second frame is the destination (it should auto-populate).
-7. **Add** animation by picking **Smart Animate** in the properties panel. Set duration to 300ms and easing to **Ease In** for a smooth transition.  
+7. **Add** animation by picking **Smart Animate** in the properties panel. Set duration to 300ms and easing to **Ease In** for a smooth transition.
+    ![image](assets/SmartAnimate.png "Set Smart Animate")
 >!!! success "Success"  
        Your button interaction is live! Click it in preview to see the magic.
 8. **Preview** the prototype by clicking the play button (▶) labeled **Present** in the top-right corner. Test the button’s click to confirm it works.
@@ -18,6 +19,7 @@ Prototyping in **Figma** turns your static designs into interactive experiences.
 >!!! warning "Warning"  
        *Avoid editing the button instance’s structure (e.g., deleting its shape) without detaching it first. Right-click and select Detach Instance to prevent breaking the master component.*
 10. **Share** your prototype by clicking **Share** (top-right), copying the link, or scanning the QR code in preview mode for mobile testing.  
+    ![image](assets/PrototypeShare.png "Share Prototype")
 >!!! info "Info"  
      *Shortcut Tip: Hold `Alt` (Windows) or `Option` (Mac) while dragging to duplicate frames quickly.*  
  >!!! warning "Animation Performance Warning"  
