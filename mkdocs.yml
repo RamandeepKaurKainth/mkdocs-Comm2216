@@ -1,5 +1,9 @@
 site_name: Figma for Beginners
 site_description: A beginner's guide to Figma
+site_url: https://ramandeepkaurkainth.github.io/mkdocs-Comm2216/
+copyright: © 2025 Ramandeep Kaur Kainth
+
+# Navigation (unchanged, just corrected indentation)
 nav:
   - Home: index.md
   - Creating and Using Components: components.md
@@ -7,6 +11,7 @@ nav:
   - Prototyping a Button Interaction: prototyping.md
   - Glossary: glossary.md
   - Troubleshooting Guide: troubleshooting.md
+
 theme:
   name: material
   font:
@@ -29,6 +34,7 @@ theme:
         name: Light mode
       primary: blue
       accent: grey
+
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
